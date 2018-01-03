@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{ED509231-A501-4CC5-9A8C-41FD7A7311F6}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AdobeReg/Formatter/AdobeOutputFormatter.cs">
+    <Files>
+      <File FileName="AdobeReg/Controllers/AdobeRegController.cs" Line="5" Column="18" />
+      <File FileName="AdobeReg/Utility/RegParser.cs" Line="242" Column="9" />
+      <File FileName="AdobeReg/Controllers/AdobeTestController.cs" Line="64" Column="1" />
+      <File FileName="AdobeReg/Startup.cs" Line="47" Column="55" />
+      <File FileName="AdobeReg/Controllers/SignInController.cs" Line="11" Column="13" />
+      <File FileName="AdobeReg/Utility/HttpRequestExtensions.cs" Line="14" Column="23" />
+      <File FileName="AdobeReg/Formatter/AdobePlainInputFormatter.cs" Line="5" Column="1" />
+      <File FileName="AdobeReg/Formatter/AdobeOutputFormatter.cs" Line="9" Column="32" />
+      <File FileName="AdobeReg/Utility/SlapCrypto.cs" Line="1" Column="1" />
+      <File FileName="AdobeReg/Utility/ISlapCrypto.cs" Line="1" Column="1" />
+      <File FileName="AdobeReg/Utility/IAdobeGuid.cs" Line="1" Column="1" />
+      <File FileName="AdobeReg/Utility/AdobeGuid.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/slapware/dev/core/AdobeReg/AdobeReg/Controllers/AdobeTestController.cs" relfile="AdobeReg/Controllers/AdobeTestController.cs" line="64" column="1" />
+      <Breakpoint file="/Users/slapware/dev/core/AdobeReg/AdobeReg/Controllers/AdobeTestController.cs" relfile="AdobeReg/Controllers/AdobeTestController.cs" line="75" column="1" />
+      <Breakpoint file="/Users/slapware/dev/core/AdobeReg/AdobeReg/Controllers/AdobeRegController.cs" relfile="AdobeReg/Controllers/AdobeRegController.cs" line="48" column="51" />
+      <Breakpoint file="/Users/slapware/dev/core/AdobeReg/AdobeReg/Controllers/AdobeRegController.cs" relfile="AdobeReg/Controllers/AdobeRegController.cs" line="62" column="1" />
+      <Breakpoint file="/Users/slapware/dev/core/AdobeReg/AdobeReg/Utility/RegParser.cs" relfile="AdobeReg/Utility/RegParser.cs" line="143" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.AdobeReg PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
